@@ -1,0 +1,29 @@
+
+.important-notice {
+    background-color: #ff4d6b; 
+    padding: 20px;
+    color: red; 
+    font-weight: bold;
+    margin-bottom: -1px;
+  }
+  
+  /* Navbar Styling */
+  .navbar-brand, .navbar-nav .nav-link {
+    color: white !important;
+  }
+  .navbar-collapse, .navbar-nav {
+    background-color: red !important; 
+  }
+  
+  .dropdown-menu {
+    background-color: red !important; 
+  }
+  
+  .dropdown-item {
+    color: white !important; 
+  }
+  
+  .navbar-nav .nav-item {
+    margin-ri
+    git config --global user.email "Toluwanike007@gmail.com"
+    git config --global user.name "toluwanike"
